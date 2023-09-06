@@ -6,11 +6,10 @@ public class loops {
     for( initialization ; condition ; increment/decrement){
          //body
        }
-
      */
         // Q. Print numbers from 1 to 5
         for(int num = 1; num<=5; num+=1)
-        System.out.println(num);
+            System.out.println(num);
 
         // Q . print number from 1 to n
         Scanner in = new Scanner(System.in);
